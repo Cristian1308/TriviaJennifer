@@ -6,7 +6,7 @@
         "incorrecta1": "Guillermo II",
         "incorrecta2": "Francisco José",
         "incorrecta3": " Ernst Udet",
-        "imagen": "/2.jpg",
+        "imagen": "2.jpg",
         "objectFit": "cover"
     },
     {
@@ -16,7 +16,7 @@
         "incorrecta1": "1916",
         "incorrecta2": "1918",
         "incorrecta3": "1917",
-        "imagen": "/3.jpg",
+        "imagen": "3.jpg",
         "objectFit": "cover"
     },
     {
@@ -26,7 +26,7 @@
         "incorrecta1": "menos de 20 millones",
         "incorrecta2": "1 millon",
         "incorrecta3": "5 millones",
-        "imagen": "/4.jpg",
+        "imagen": "4.jpg",
         "objectFit": "cover"
     },
     {
@@ -36,7 +36,7 @@
         "incorrecta1": "242 días",
         "incorrecta2": "100 días",
         "incorrecta3": "214 días",
-        "imagen": "/5.jpg"
+        "imagen": "5.jpg"
     },
     {
         "categoria": "Cuestionario Primera Guerra Mundial Jennifer y Nicol",
@@ -45,6 +45,6 @@
         "incorrecta1": "Tratado del acuerdo de paris",
         "incorrecta2": "Tratado de Moscu",
         "incorrecta3": "Tratado de fin de guerra de berlin",
-        "imagen": "/6.jpg"
+        "imagen": "6.jpg"
     }
 ]
