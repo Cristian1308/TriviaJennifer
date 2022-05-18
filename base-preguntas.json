@@ -6,7 +6,7 @@
         "incorrecta1": "Guillermo II",
         "incorrecta2": "Francisco José",
         "incorrecta3": " Ernst Udet",
-        "imagen": "/2.jpg",
+        "imagen": "2.jpg",
         "objectFit": "cover"
     },
     {
@@ -16,7 +16,7 @@
         "incorrecta1": "1916",
         "incorrecta2": "1918",
         "incorrecta3": "1917",
-        "imagen": "/3.jpg",
+        "imagen": "3.jpg",
         "objectFit": "cover"
     },
     {
@@ -26,7 +26,7 @@
         "incorrecta1": "menos de 20 millones",
         "incorrecta2": "1 millon",
         "incorrecta3": "5 millones",
-        "imagen": "/4.jpg",
+        "imagen": "4.jpg",
         "objectFit": "cover"
     },
     {
@@ -45,7 +45,7 @@
         "incorrecta1": "Tratado del acuerdo de paris",
         "incorrecta2": "Tratado de Moscu",
         "incorrecta3": "Tratado de fin de guerra de berlin",
-        "imagen": "/6.jpg"
+        "imagen": "6.jpg"
     },
     {
         "categoria": "Cuestionario Primera Guerra Mundial Jennifer y Nicol",
@@ -54,7 +54,7 @@
         "incorrecta1": "Marne y Lorena",
         "incorrecta2": "Paris y Alsacia",
         "incorrecta3": "Arica y la Patagonia",
-        "imagen": "/9.jpg"
+        "imagen": "9.jpg"
     },
     {
         "categoria": "Cuestionario Primera Guerra Mundial Jennifer y Nicol",
@@ -63,7 +63,7 @@
         "incorrecta1": "Versalles",
         "incorrecta2": "Trianon",
         "incorrecta3": "Tratado de rendición Rusa de 1917",
-        "imagen": "/10.jpg"
+        "imagen": "10.jpg"
     },
     {
         "categoria": "Cuestionario Primera Guerra Mundial Jennifer y Nicol",
@@ -72,7 +72,7 @@
         "incorrecta1": "Polonia",
         "incorrecta2": "Inglaterra",
         "incorrecta3": "Alemania",
-        "imagen": "/11.jpg"
+        "imagen": "11.jpg"
     },
     {
         "categoria": "Cuestionario Primera Guerra Mundial Jennifer y Nicol",
@@ -81,7 +81,7 @@
         "incorrecta1": "Benito Mussolini",
         "incorrecta2": "Frida Khalo",
         "incorrecta3": "Pool Vitiriusrinka",
-        "imagen": "/12.jpg"
+        "imagen": "12.jpg"
     },
     {
         "categoria": "Cuestionario Primera Guerra Mundial Jennifer y Nicol",
@@ -90,7 +90,7 @@
         "incorrecta1": "Mexico, Gibraltar, Alsacia y Paris",
         "incorrecta2": "Chechenia y Hong Kong",
         "incorrecta3": "Bulgaria , Peru, Argentina, China, Japon y la URSS",
-        "imagen": "/9.jpg"
+        "imagen": "9.jpg"
     },
     {
         "categoria": "Cuestionario Primera Guerra Mundial Jennifer y Nicol",
@@ -99,7 +99,7 @@
         "incorrecta1": "Viena",
         "incorrecta2": "Budapest",
         "incorrecta3": "Manila",
-        "imagen": "/13.jpg"
+        "imagen": "13.jpg"
     },
     {
         "categoria": "Cuestionario Primera Guerra Mundial Jennifer y Nicol",
@@ -108,7 +108,7 @@
         "incorrecta1": "1920",
         "incorrecta2": "1918",
         "incorrecta3": "1917",
-        "imagen": "/6.jpg"
+        "imagen": "6.jpg"
     },
     {
         "categoria": "Cuestionario Primera Guerra Mundial Jennifer y Nicol",
@@ -117,7 +117,7 @@
         "incorrecta1": "Croacia y Rusia",
         "incorrecta2": "Macedonia, Turquia y el Imperio Otomano",
         "incorrecta3": "Francia y la Micronesia",
-        "imagen": "/14.jpg"
+        "imagen": "14.jpg"
     },
     {
         "categoria": "Cuestionario Primera Guerra Mundial Jennifer y Nicol",
@@ -126,7 +126,7 @@
         "incorrecta1": "Rusia, Francia e Inglaterra",
         "incorrecta2": "Grecia,Japon y Peru",
         "incorrecta3": "España, Estados Unidos e Inglaterra",
-        "imagen": "/15.jpg"
+        "imagen": "15.jpg"
     },
     {
         "categoria": "Cuestionario Primera Guerra Mundial Jennifer y Nicol",
@@ -135,7 +135,7 @@
         "incorrecta1": "Trineras",
         "incorrecta2": "Trianon",
         "incorrecta3": "Hoyos socavonicos",
-        "imagen": "/16.jpg"
+        "imagen": "16.jpg"
     }
 
 ]
