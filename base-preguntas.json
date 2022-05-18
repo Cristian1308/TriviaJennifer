@@ -1,0 +1,141 @@
+[
+    {
+        "categoria": "Cuestionario Primera Guerra Mundial Jennifer y Nicol",
+        "pregunta": "¿El asesinato de qué dirigente fue uno de los desencadenantes de la Primera Guerra Mundial?",
+        "respuesta": "Francisco Fernando",
+        "incorrecta1": "Guillermo II",
+        "incorrecta2": "Francisco José",
+        "incorrecta3": " Ernst Udet",
+        "imagen": "/2.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Cuestionario Primera Guerra Mundial Jennifer y Nicol",
+        "pregunta": "¿Cuándo comenzó la Primera Guerra Mundial?",
+        "respuesta": "1914",
+        "incorrecta1": "1916",
+        "incorrecta2": "1918",
+        "incorrecta3": "1917",
+        "imagen": "/3.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Cuestionario Primera Guerra Mundial Jennifer y Nicol",
+        "pregunta": "¿Cuántas bajas se estima que hubo en la Primera Guerra Mundial?",
+        "respuesta": "mas de 20 millones",
+        "incorrecta1": "menos de 20 millones",
+        "incorrecta2": "1 millon",
+        "incorrecta3": "5 millones",
+        "imagen": "/4.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Cuestionario Primera Guerra Mundial Jennifer y Nicol",
+        "pregunta": "La batalla de Verdun fue también una de las más largas del conflicto. ¿Cuántos días duró?",
+        "respuesta": "303 días",
+        "incorrecta1": "242 días",
+        "incorrecta2": "100 días",
+        "incorrecta3": "214 días",
+        "imagen": "/5.jpg"
+    },
+    {
+        "categoria": "Cuestionario Primera Guerra Mundial Jennifer y Nicol",
+        "pregunta": "Como se llama el tratado que dio fin a la primera guerra mundial",
+        "respuesta": "Tratado de versalles",
+        "incorrecta1": "Tratado del acuerdo de paris",
+        "incorrecta2": "Tratado de Moscu",
+        "incorrecta3": "Tratado de fin de guerra de berlin",
+        "imagen": "/6.jpg"
+    },
+    {
+        "categoria": "Cuestionario Primera Guerra Mundial Jennifer y Nicol",
+        "pregunta": "¿Que territorios Alemania habia quitado a Francia?",
+        "respuesta": "Alsacia y Lorenas",
+        "incorrecta1": "Marne y Lorena",
+        "incorrecta2": "Paris y Alsacia",
+        "incorrecta3": "Arica y la Patagonia",
+        "imagen": "/9.jpg"
+    },
+    {
+        "categoria": "Cuestionario Primera Guerra Mundial Jennifer y Nicol",
+        "pregunta": "¿Como se llama el tratado por el cual Rusia se rindió?",
+        "respuesta": "Brest-LItovsk",
+        "incorrecta1": "Versalles",
+        "incorrecta2": "Trianon",
+        "incorrecta3": "Tratado de rendición Rusa de 1917",
+        "imagen": "/10.jpg"
+    },
+    {
+        "categoria": "Cuestionario Primera Guerra Mundial Jennifer y Nicol",
+        "pregunta": "¿Cual fue el país mas beneficiado de la guerra?",
+        "respuesta": "Estados Unidos",
+        "incorrecta1": "Polonia",
+        "incorrecta2": "Inglaterra",
+        "incorrecta3": "Alemania",
+        "imagen": "/11.jpg"
+    },
+    {
+        "categoria": "Cuestionario Primera Guerra Mundial Jennifer y Nicol",
+        "pregunta": "Como se llama el presidente de los estados unidos en esa epoca?",
+        "respuesta": "Woodrow Wilsonr",
+        "incorrecta1": "Benito Mussolini",
+        "incorrecta2": "Frida Khalo",
+        "incorrecta3": "Pool Vitiriusrinka",
+        "imagen": "/12.jpg"
+    },
+    {
+        "categoria": "Cuestionario Primera Guerra Mundial Jennifer y Nicol",
+        "pregunta": "¿Como se llaman los nuevos estados nacidos despues de la guerra?",
+        "respuesta": "Lituania, Estonia, Polonia, Yugoslavia y Checoslovaquia",
+        "incorrecta1": "Mexico, Gibraltar, Alsacia y Paris",
+        "incorrecta2": "Chechenia y Hong Kong",
+        "incorrecta3": "Bulgaria , Peru, Argentina, China, Japon y la URSS",
+        "imagen": "/9.jpg"
+    },
+    {
+        "categoria": "Cuestionario Primera Guerra Mundial Jennifer y Nicol",
+        "pregunta": "¿Donde murio el archiduque Francisco Fernando?",
+        "respuesta": "Sarajevo",
+        "incorrecta1": "Viena",
+        "incorrecta2": "Budapest",
+        "incorrecta3": "Manila",
+        "imagen": "/13.jpg"
+    },
+    {
+        "categoria": "Cuestionario Primera Guerra Mundial Jennifer y Nicol",
+        "pregunta": "¿En que año se firmo el tratado versalles?",
+        "respuesta": "1919",
+        "incorrecta1": "1920",
+        "incorrecta2": "1918",
+        "incorrecta3": "1917",
+        "imagen": "/6.jpg"
+    },
+    {
+        "categoria": "Cuestionario Primera Guerra Mundial Jennifer y Nicol",
+        "pregunta": "¿La triple entente estaba formado por ...?",
+        "respuesta": "Inglaterra, Francia y Rusia",
+        "incorrecta1": "Croacia y Rusia",
+        "incorrecta2": "Macedonia, Turquia y el Imperio Otomano",
+        "incorrecta3": "Francia y la Micronesia",
+        "imagen": "/14.jpg"
+    },
+    {
+        "categoria": "Cuestionario Primera Guerra Mundial Jennifer y Nicol",
+        "pregunta": "¿Quienes formaban la Triple Alianza?",
+        "respuesta": "Alemania, Austria-Hungria y Italia",
+        "incorrecta1": "Rusia, Francia e Inglaterra",
+        "incorrecta2": "Grecia,Japon y Peru",
+        "incorrecta3": "España, Estados Unidos e Inglaterra",
+        "imagen": "/15.jpg"
+    },
+    {
+        "categoria": "Cuestionario Primera Guerra Mundial Jennifer y Nicol",
+        "pregunta": "¿Como se llaman las zanjas en la que la Primera Guerra Mundial se disputó?",
+        "respuesta": "Trincheras",
+        "incorrecta1": "Trineras",
+        "incorrecta2": "Trianon",
+        "incorrecta3": "Hoyos socavonicos",
+        "imagen": "/16.jpg"
+    }
+
+]
